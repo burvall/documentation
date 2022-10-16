@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "documentation"
+  site-url: "https://burvall.github.io/documentation"
+  description: "Development documents"
+  repo-branch: main
+  repo-url: "https://github.com/burvall/documentation"
